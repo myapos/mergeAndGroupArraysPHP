@@ -1,7 +1,7 @@
 # mergeArrayList
 <br />
 Description:
-Function mergeArrayListByProPerty($dataMetaV,'WebpaceId','Views','Clicks');
+Function mergeArrayListByProPerty($dataMetaV,'WebpaceId','Views','Clicks');<br />
 This function is useful in data grouping. 
 <br />
 ---------Structure Of Data-----------
