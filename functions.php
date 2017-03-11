@@ -189,9 +189,6 @@ function mergeArrayListByProPerty($dataMeta, $propertyToGroup, $property1ToAdd, 
 	  //$tempStr = $dataMeta[0];
 	  //echo '<pre>'; print_r($tempStr); echo '</pre>';
 
-
-
-
 	  foreach($gcDV as $posK => $posV){
 
 	  	//echo "var:". "temp Values ".$tempStr[$property1ToAdd]." $posV $property1ToAdd $property2ToAdd".$dataMeta[$posV][$property1ToAdd]."<br>";
