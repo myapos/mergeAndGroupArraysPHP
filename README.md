@@ -5,6 +5,7 @@ Function mergeArrayListByProPerty($dataMetaV,'WebpaceId','Views','Clicks');<br /
 This function is useful in data grouping. 
 
 ##Structure Of Data
+<addr>
 $dataMeta1 = [
 
  [
@@ -33,7 +34,7 @@ $dataMeta1 = [
 
 
  ]
-
+</addr>
 ##Arguments
 
 $dataMeta : The data to be ordered
