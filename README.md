@@ -1,10 +1,10 @@
 # mergeArrayList
 
-#Description:
+#Description
 Function mergeArrayListByProPerty($dataMetaV,'WebpaceId','Views','Clicks');<br />
 This function is useful in data grouping. 
 
----------Structure Of Data-----------
+#Structure Of Data
 $dataMeta1 = [
 
  [
@@ -34,7 +34,7 @@ $dataMeta1 = [
 
  ]
 
----------Arguments-----------
+#Arguments
 
 $dataMeta : The data to be ordered
 $propertyToGroup: This property will be used in order to scan the array list, 
