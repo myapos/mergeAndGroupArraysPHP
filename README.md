@@ -1,9 +1,9 @@
 # mergeArrayList
 
 ##Description
-Function 
 
-mergeArrayListByProPerty($dataMetaV,'WebpaceId','Views','Clicks');<br />
+mergeArrayListByProPerty($dataMetaV,'WebpaceId','Views','Clicks');
+
 This function is useful in data grouping. 
 
 ##Structure Of Data
@@ -43,4 +43,3 @@ $dataMeta1 = [
 - $propertyToGroup: This property will be used in order to scan the array list, 
 group and add the values  with common values of data structure. Has to be present in all data structure
 - $property1ToAdd, $property2ToAdd: these properties are the sums of all common values
- 
